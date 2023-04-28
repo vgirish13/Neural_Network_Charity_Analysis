@@ -2,7 +2,7 @@
 
 # Overview
 
-## In this analysis Beks and I used a binary classifier to predict the success of applicants that were funded by Alphabet Soup. Beks' received data from over 34,000 organizations that were funded in the past. In order to find accurate results, we had to build a neural network. 
+- In this analysis Beks and I used a binary classifier to predict the success of applicants that were funded by Alphabet Soup. Beks' received data from over 34,000 organizations that were funded in the past. In order to find accurate results, we had to build a neural network. 
 
 # Results
 
